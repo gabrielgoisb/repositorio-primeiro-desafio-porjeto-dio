@@ -4,7 +4,7 @@ Progressão dos meus estudos a partir de quatro linguagens
 ## Primeiro repositorio Github
 Desafio de Projeto DIO - Git/Github ✏️
 
-**Criei um repositorio para cada Linguagem que estou me propondo a apreender** 
+**Criei uma pasta para cada Linguagem que estou me propondo a apreender** 
 - Java
 - C++
 - Phyton
